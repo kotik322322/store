@@ -1,0 +1,2 @@
+export const CART__ADD__ITEM = "CART__ADD__ITEM"
+export const CART_REMOVE_ITEM = "CART_REMOVE_ITEM"
